@@ -5,11 +5,10 @@ Este proyecto consiste en el análisis y manipulación de una base de datos Post
 
 ## Estructura del Proyecto
 Proyecto-Consultas-SQL/
-├── BBDD/
-│   └── BBDD_Proyecto.sql    # Script de la base de datos original
-├── Esquema/
-│   └── Esquema.png          # Diagrama de la base de datos
-└── Proyecto.sql             # Archivo con todas las consultas
+BBDD/BBDD_Proyecto.sql     **El script original de la base de datos**
+Esquema/Esquema.png        **El esquema de la base de datos realizado en pgAdmin4**
+Proyecto.sql               **Archivo con todas las consultas realizadas**
+Readme.md                  **Archivo con todos los pasos seguidos durante el proyecto y el informe de mi análisis.**
 
 ## Estructura de la Base de Datos
 La base de datos está compuesta por las siguientes tablas principales:
